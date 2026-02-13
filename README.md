@@ -27,8 +27,7 @@ To set up a functional Security Operations Center (SOC) environment to monitor t
 ### 3. Generating & Analyzing Alerts
 * Simulated an attack by running discovery commands in the VM.
 * Successfully triggered a "High Severity" alert in the LimaCharlie dashboard.
-[Insert Screenshot of the Alert Spike here]
-
+![Alert-detected](detection-alert.png)
 ## Key Learnings
 * Understanding EDR telemetry and how processes are logged.
 * Writing Detection & Response rules to automate threat hunting.
