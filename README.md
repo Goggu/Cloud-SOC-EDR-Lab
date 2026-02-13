@@ -31,4 +31,3 @@ To set up a functional Security Operations Center (SOC) environment to monitor t
 ## Key Learnings
 * Understanding EDR telemetry and how processes are logged.
 * Writing Detection & Response rules to automate threat hunting.
-* Managing system resources (8GB RAM optimization) for security testing.
